@@ -3,3 +3,6 @@
 
 # iml
 guessing-game.iml
+
+# production folder
+out/production
